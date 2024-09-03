@@ -12,9 +12,9 @@ builder.Services.AddSwaggerGen(options =>
         Description = "An API to get conversion rates from USD to BRL",
         Contact = new Microsoft.OpenApi.Models.OpenApiContact
         {
-            Name = "André",
+            Name = "AndrÃ©",
             Email = "rm551575",
-            Url = new Uri("https://github.com/andresant-ana"),
+            Url = new Uri("https://github.com/andresant-ana/CurrencyConversionAPI"),
         }
     });
 });
